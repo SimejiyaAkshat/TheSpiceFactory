@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ben Jorge",
+        "message" : "This cozy restaurant has left the best impressions! Hospitable hosts, delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to come back here again and again."
+    },
+    {
+        "id" : 2,
+        "name" : "Zekke stone",
+        "message" : "It’s a great experience. The ambiance is very welcoming and charming. Amazing wines, food and service. Staff are extremely knowledgeable and make great recommendations."
+    },
+    {
+        "id" : 3,
+        "name" : "Annea Rob",
+        "message" : "The rooms were clean, very comfortable, and the staff was amazing. They went over and beyond to help make our stay enjoyable. I highly recommend this hotel for anyone visiting downtown"
+    }
+]
